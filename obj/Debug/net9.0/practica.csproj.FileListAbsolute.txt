@@ -1,0 +1,14 @@
+C:\Users\santi\Downloads\Unity\mivideojuego\practica\bin\Debug\net9.0\practica.exe
+C:\Users\santi\Downloads\Unity\mivideojuego\practica\bin\Debug\net9.0\practica.deps.json
+C:\Users\santi\Downloads\Unity\mivideojuego\practica\bin\Debug\net9.0\practica.runtimeconfig.json
+C:\Users\santi\Downloads\Unity\mivideojuego\practica\bin\Debug\net9.0\practica.dll
+C:\Users\santi\Downloads\Unity\mivideojuego\practica\bin\Debug\net9.0\practica.pdb
+C:\Users\santi\Downloads\Unity\mivideojuego\practica\obj\Debug\net9.0\practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santi\Downloads\Unity\mivideojuego\practica\obj\Debug\net9.0\practica.AssemblyInfoInputs.cache
+C:\Users\santi\Downloads\Unity\mivideojuego\practica\obj\Debug\net9.0\practica.AssemblyInfo.cs
+C:\Users\santi\Downloads\Unity\mivideojuego\practica\obj\Debug\net9.0\practica.csproj.CoreCompileInputs.cache
+C:\Users\santi\Downloads\Unity\mivideojuego\practica\obj\Debug\net9.0\practica.dll
+C:\Users\santi\Downloads\Unity\mivideojuego\practica\obj\Debug\net9.0\refint\practica.dll
+C:\Users\santi\Downloads\Unity\mivideojuego\practica\obj\Debug\net9.0\practica.pdb
+C:\Users\santi\Downloads\Unity\mivideojuego\practica\obj\Debug\net9.0\practica.genruntimeconfig.cache
+C:\Users\santi\Downloads\Unity\mivideojuego\practica\obj\Debug\net9.0\ref\practica.dll
